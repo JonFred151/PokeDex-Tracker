@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PokeDex_Tracker
 build_property.RootNamespace = PokeDex_Tracker
@@ -18,16 +26,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\JonFr\repos\PokeDex Tracker\PokeDex Tracker
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Gen_One/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuX09uZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Gen_One/UpdateGenOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuX09uZVxVcGRhdGVHZW5PbmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/JonFr/repos/PokeDex Tracker/PokeDex Tracker/Pages/Shared/_ValidationScriptsPartial.cshtml]
